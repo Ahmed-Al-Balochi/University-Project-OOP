@@ -1,5 +1,5 @@
 # University-Project-OOP
-OOP Project (Hostel For Students)
+OOP Project (Hostel For Students),Terminal Based Program.
 
 The Updated Hostel Image contains the UML diagram for the class structures.
 
